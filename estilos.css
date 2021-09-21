@@ -1,0 +1,21 @@
+.inicio{
+    background-color: #B2DFDB;
+    text-align: center;
+    margin: 10px;
+}
+
+.barra{
+    background-color: #009688 !important;
+    font-family: Times New Roman ;
+    font-size: 20px;
+    }
+
+.caja{
+    text-align: justify;
+    font-size: 19px;
+}
+
+
+.color >li >a{
+    color: #FFFFFF !important;
+}

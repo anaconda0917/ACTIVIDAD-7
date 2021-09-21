@@ -1,0 +1,22 @@
+.inicio{
+    text-align: center;
+    background-color: #B2DFDB;
+    margin: 10px;
+}
+
+.caja{
+    text-align: justify;
+    font-size: 19px;
+
+}
+
+
+.cajas >div >h3 {
+    color: blueviolet;
+    
+}
+
+.cajas >div >p {
+    text-align: justify;
+    
+}
